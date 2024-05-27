@@ -17,8 +17,8 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@bloggrify/core": "1.2.1",
         "@bloggrify/bento": "0.9.1",
+        "@bloggrify/core": "1.2.1",
         "nuxt": "3.11.2"
     },
     "devDependencies": {
