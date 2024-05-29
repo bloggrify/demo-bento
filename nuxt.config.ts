@@ -19,7 +19,7 @@ export default defineNuxtConfig({
     },
 
     extends: [
-        'github:hlassiege/bloggrify',
+        '@bloggrify/core',
         '@bloggrify/bento'
     ],
 })
