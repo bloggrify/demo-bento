@@ -38,7 +38,7 @@ Bento is a theme for the blogging platform [Bloggrify](https://bloggrify.com).
 To install this theme, you should clone this repository and install the dependencies.
 
 ```bash
-git clone git@github.com:hlassiege/demo-bento.git
+git clone git@github.com:bloggrify/demo-bento.git
 cd demo-bento
 npm install
 ```

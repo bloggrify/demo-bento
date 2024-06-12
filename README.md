@@ -1,6 +1,6 @@
 # Bento
 
-Bento is a premium template [Bloggrify](https://github.com/hlassiege/bloggrify). 
+Bento is a premium template [Bloggrify](https://github.com/bloggrify/bloggrify). 
 It provides a dark mode, a clean, accessible, responsive and SEO-efficient blog template.
 
 The demo is available [here](https://bento.bloggrify.com)
