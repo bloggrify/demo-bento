@@ -1,13 +1,13 @@
 {
     "private": true,
-    "description": "A demo project for the Epoxia theme for Bloggrify",
-    "name": "epoxia-demo",
+    "description": "A demo project for the Bento theme for Bloggrify",
+    "name": "bento-demo",
     "type": "module",
     "version": "0.9.1",
     "author": "Eventually Coding <contact@eventuallycoding.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hlassiege/demo-epoxia.git"
+        "url": "https://github.com/hlassiege/demo-bento.git"
     },
     "scripts": {
         "build": "nuxt build",
