@@ -29,9 +29,9 @@ export default defineAppConfig({
         instagram: 'https://instagram.com',
         github: 'https://github.com',
 
-        // possible values : 'facebook', 'twitter', 'linkedin', 'email', 'pinterest', 'reddit', 'pocket', 'whatsapp', 'telegram', 'skype'
+        // possible values : you should check the nuxt-social-share documentation for the full list
         // see https://github.com/stefanobartoletti/nuxt-social-share
-        sharing_networks: ['facebook', 'twitter', 'linkedin', 'email', 'pinterest', 'reddit', 'pocket', 'whatsapp', 'telegram', 'skype']
+        sharing_networks: ['facebook', 'bluesky', 'twitter', 'threads', 'linkedin', 'email', 'pinterest', 'reddit', 'pocket', 'whatsapp', 'telegram', 'skype']
     },
 
     newsletter: {
