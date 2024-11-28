@@ -18,8 +18,8 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@bloggrify/bento": "0.9.5",
-        "@bloggrify/core": "1.7.0",
+        "@bloggrify/bento": "0.9.6",
+        "@bloggrify/core": "1.8.0",
         "nuxt": "3.14.1592"
     },
     "devDependencies": {
